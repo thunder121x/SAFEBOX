@@ -1,0 +1,10 @@
+0.7
+2020.2
+Oct 13 2023
+20:47:58
+D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.sim/sim_1/behav/xsim/glbl.v,1697210495,verilog,,,,glbl,,,,,,,,
+D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.srcs/sources_1/new/Display7seg.v,1701601177,verilog,,D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.srcs/sources_1/new/PasswordSys.v,,Display7seg,,,,,,,,
+D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.srcs/sources_1/new/MainSys.v,1701608428,verilog,,,,MainSys,,,,,,,,
+D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.srcs/sources_1/new/PasswordSys.v,1701602053,verilog,,D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.srcs/sources_1/new/lifeCheck.v,,PasswordSys,,,,,,,,
+D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.srcs/sources_1/new/lifeCheck.v,1701607218,verilog,,D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.srcs/sources_1/new/lifeCounter.v,,lifeCheck,,,,,,,,
+D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.srcs/sources_1/new/lifeCounter.v,1701606913,verilog,,D:/VIVADO-VIVI/SAFE_BOX/SAFE_BOX.srcs/sources_1/new/MainSys.v,,lifeCounter,,,,,,,,

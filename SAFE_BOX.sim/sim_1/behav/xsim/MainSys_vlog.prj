@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../SAFE_BOX.srcs/sources_1/new/Display7seg.v" \
+"../../../../SAFE_BOX.srcs/sources_1/new/PasswordSys.v" \
+"../../../../SAFE_BOX.srcs/sources_1/new/lifeCheck.v" \
+"../../../../SAFE_BOX.srcs/sources_1/new/lifeCounter.v" \
+"../../../../SAFE_BOX.srcs/sources_1/new/MainSys.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
